@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 ### 3- Run the script using the following command:
 ```python
-python g_w_script.py
+python script.py
 ```
 
 ## Author
